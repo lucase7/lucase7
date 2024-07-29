@@ -1,4 +1,4 @@
-<h4 align="left">👋Olá, muito prazer me chamo Lucas Eduardo!</h4>
+<h4 align="left">👋Hey,I'm Lucas Eduardo!</h4>
 
 ###
 
