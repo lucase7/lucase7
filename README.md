@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Ciências da Computação<br><br>👨‍💻 "Não desista nas primeiras tentativas, a persistência é amiga da conquista". (Bill Gates)</p>🌱 "Você não precisa ver a escada inteira. Apenas dê o primeiro passo". ( Martin Luther King Jr )
+<p align="left">👨‍🎓 🎓 Estudante de Ciências da Computação <br><br> 💡 Apaixonado por tecnologia, inovação e soluções que geram impacto real.<br><br>👨‍💻 "Não desista nas primeiras tentativas, a persistência é amiga da conquista". (Bill Gates)</p>🌱 "Você não precisa ver a escada inteira. Apenas dê o primeiro passo". ( Martin Luther King Jr )
 
 ###
 
